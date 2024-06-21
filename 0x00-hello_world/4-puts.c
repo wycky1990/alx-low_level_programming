@@ -1,5 +1,5 @@
 #include<stdio.h>
-/**
+/*
  * main - starting point
  *
  * Return - 1 for fail 0 for success
