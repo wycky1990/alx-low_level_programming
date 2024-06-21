@@ -1,11 +1,10 @@
 #include <stdio.h>
 /**
- * main - program entry point
- * return:0 (success)
- */
+ * main - A program that prints a line with puts function
+ * Return: 0 (success)
+*/
 int main(void)
 {
-	printf("with proper grammar, but the outcome is a piece of art,\n");
+	puts("with proper grammar, but the outcome is a piece of art,\n");
 	return (0);
 }
-
