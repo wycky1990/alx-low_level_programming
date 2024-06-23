@@ -3,7 +3,7 @@
  * main - main function
  * Return: 0 (success)
 */
-int main(void)
+int main()
 {
 	printf("Size of a char: %lu byte(s)", sizeof(char));
 	printf("Size of a int: %lu byte(s)", sizeof(int));
