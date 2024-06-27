@@ -2,13 +2,13 @@
 
 /**
  * _isupper - checks if a letter is upper
- * @x: value to be checked
+ * @c: value to be checked
  * Return: 1 for upper and 0 for alse
  */
 
-int _isupper(int x)
+int _isupper(int c)
 {
-	if (x >= 65 && x <= 90)
+	if (c >= 65 && c <= 90)
 	{
 	return (1);
 	}
