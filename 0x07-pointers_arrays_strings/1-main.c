@@ -7,7 +7,7 @@
  * @size: the size of the memory to print
  *
  * Return: Nothing.
- */
+i */
 void simple_print_buffer(char *buffer, unsigned int size)
 {
     unsigned int i;
